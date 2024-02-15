@@ -15,3 +15,13 @@ After that, navigate to the interface in your browser and go to Manager on the s
 - adieyal/comfyui-dynamicprompts (helping to explore prompt spaces)
 - Fannovel16/comfyui_controlnet_aux (depth estimation + line extraction + more)
 - cubiq/ComfyUI_IPAdapter_plus (face-id for consistent characters)
+
+I use the extension https://github.com/miaoshouai/miaoshouai-assistant for https://github.com/AUTOMATIC1111/stable-diffusion-webui to download models from CivitAI for checkpoints then point ComfyUI to the models folder in my webui instance. You CAN install ComfyUI inside of webui but I think it starts to suffer performance wise. You can also just download them yourself and put them in the ComfyUI models folder.
+
+My favorites are:
+- AnythingInkBaseV5: https://civitai.com/models/9409?modelVersionId=30163
+- PastelMix[Stylized Anime Model]: https://civitai.com/models/5414?modelVersionId=6297
+- RealisticVision: https://civitai.com/models/4201?modelVersionId=130072
+- DreamShaper: https://civitai.com/models/4384?modelVersionId=128713
+- MeinaMix: https://civitai.com/models/7240?modelVersionId=119057
+- EpicRealism: https://civitai.com/models/25694?modelVersionId=143906
