@@ -33,6 +33,7 @@ There are some more models you need but you can find these in Manager->Install M
 - RealESRGAN x4
 - ESRGAN x4
 - 4x-AnimeSharp
+  
 (t2i adapters for controlnet)
 - T2I-Adapter (color)
 - T2I-Adapter (depth)
